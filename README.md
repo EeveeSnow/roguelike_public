@@ -2,7 +2,7 @@
 
 ## Not for sale 
 
-This game is open source study project of 2 student programers
+This game is a open source project by 2 student programmers.
 
 ## Using assets
 
