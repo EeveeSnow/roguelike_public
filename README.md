@@ -1,5 +1,7 @@
 # roguelike_public
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e78ddf2b5d57441bbf5a66a207b0c9a5)](https://app.codacy.com/gh/EeveeSnow/roguelike_public?utm_source=github.com&utm_medium=referral&utm_content=EeveeSnow/roguelike_public&utm_campaign=Badge_Grade_Settings)
+
 ## Not for sale 
 
 This game is a open source project by 2 student programmers.
